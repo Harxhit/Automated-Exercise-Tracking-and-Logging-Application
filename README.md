@@ -1,3 +1,12 @@
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![API](https://img.shields.io/badge/API-Active-blue?style=for-the-badge&logo=api&logoColor=white)](https://example.com)
+[![API Developer](https://img.shields.io/badge/API%20Developer-Active-blue?style=for-the-badge&logo=api&logoColor=white)](https://example.com)
+
+
+
+
 # Automated Exercise Tracking and Logging Application
 
 ## Description
