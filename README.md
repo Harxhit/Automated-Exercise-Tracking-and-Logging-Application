@@ -37,3 +37,8 @@ Developed an automated application that integrates with Nutritionix API to track
 
 ## Project Outcome
 This project showcases proficiency in Python, API integration, and automation. The application provides users with an efficient way to track their exercise routines and monitor their fitness progress. By leveraging external APIs and automated data logging, it enhances user experience and promotes a healthy lifestyle.
+
+
+## Links 
+### Sheety - https://sheety.co/docs
+### Nutrition API - https://www.nutritionix.com/business/api
